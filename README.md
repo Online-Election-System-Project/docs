@@ -37,6 +37,8 @@
 
 <a href="https://github.com/Online-Election-System-Project/docs/blob/main/Product%20Backlog.pdf">4. Product Backlog </a>
 
+<a href="https://github.com/Online-Election-System-Project/docs/blob/main/기여도">5. 구성원별 기여도 </a>
+
 
 
 # 회의록
