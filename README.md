@@ -40,11 +40,15 @@
 
 
 # 회의록
-2021-11-14(일요일) 주제선정, Requirements Gathering 작성
+2021-11-14(일요일) 
+- 주제선정, Requirements Gathering 작성
 
-2021-11-22(월요일) Problem Statement 정의 및 그에 따른 Requirement 반영 및 사이즈 수정
+2021-11-22(월요일) 
+- Problem Statement 정의 및 그에 따른 Requirement 반영 및 사이즈 수정
 
-2021-11-23(화요일) 대리투표, 개표조작이 가능하다는 문제점을 Problem Statement에 추가 & 그에 따른 Requirement 반영
+2021-11-23(화요일) 
+
+- 대리투표, 개표조작이 가능하다는 문제점을 Problem Statement에 추가 & 그에 따른 Requirement 반영
  
 2021-11-27(토요일) 
 - 서브그룹 2에서 필요한 promotion(입후보등록) 테이블 스키마에 대한 공유 및 피드백
