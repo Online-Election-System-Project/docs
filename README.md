@@ -29,9 +29,9 @@
 # 문서 링크
 
 
-<a href="https://github.com/Online-Election-System-Project/docs/blob/main/Problem%20Statement.pdf">1. Problem Statement</a>
+<a href="https://github.com/Online-Election-System-Project/docs/blob/main/RequirementGather/Problem_Statements.pdf">1. Problem Statement</a>
 
-<a href="https://github.com/Online-Election-System-Project/docs/blob/main/Requirements%20Gathering.pdf">2. Requirement Gathering</a>
+<a href="https://github.com/Online-Election-System-Project/docs/blob/main/RequirementGather/Requirements%20Gathering.pdf">2. Requirement Gathering</a>
 
 <a href="https://github.com/Online-Election-System-Project/docs/tree/main/UseCase">3. Use Case</a>
 
