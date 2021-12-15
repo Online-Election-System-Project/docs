@@ -1,4 +1,4 @@
-# Simple Use Case - 1
+# UC - 홍보물 등록
 
 
 #### 1. Related Requirements: 
